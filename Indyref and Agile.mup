@@ -1,0 +1,53 @@
+{
+  "title": "Indyref and Agile",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Intro",
+      "id": 2
+    },
+    "2": {
+      "title": "Agile IS political",
+      "id": 4
+    },
+    "3": {
+      "title": "Optimising Systems",
+      "id": 5
+    },
+    "4": {
+      "title": "Change",
+      "id": 9,
+      "ideas": {
+        "1": {
+          "title": "Antibodies",
+          "id": 6,
+          "ideas": {
+            "1": {
+              "title": "FUD",
+              "id": 7
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Gradualists and Fundamentalists",
+          "id": 8,
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Mobilising Support",
+          "id": 10
+        }
+      }
+    },
+    "-1": {
+      "title": "Summary",
+      "id": 3
+    }
+  }
+}
