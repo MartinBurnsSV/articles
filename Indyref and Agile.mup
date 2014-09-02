@@ -3,17 +3,117 @@
   "id": 1,
   "formatVersion": 2,
   "ideas": {
-    "1": {
-      "title": "Intro",
-      "id": 2
-    },
     "2": {
       "title": "Agile IS political",
-      "id": 4
+      "id": 4,
+      "ideas": {
+        "2": {
+          "title": "Manifesto",
+          "id": 12,
+          "ideas": {
+            "1": {
+              "title": "Agile Manifesto",
+              "id": 13
+            },
+            "2": {
+              "title": "Communist Manifesto",
+              "id": 14,
+              "ideas": {}
+            }
+          }
+        },
+        "4": {
+          "title": "Struggle of class against class",
+          "id": 17,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Voltaire",
+              "id": 18
+            },
+            "2": {
+              "title": "Gandhi",
+              "id": 19
+            }
+          }
+        },
+        "5": {
+          "title": "Why do we care?",
+          "id": 20,
+          "ideas": {
+            "1": {
+              "title": "Or be ruled by inferior people",
+              "id": 16,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Things as they are\n@drunkcod",
+              "id": 11,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        }
+      }
     },
     "3": {
       "title": "Optimising Systems",
-      "id": 5
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "Adam Smith",
+          "id": 22,
+          "ideas": {}
+        },
+        "2": {
+          "title": "What is the right level for sharing & autonomy",
+          "id": 24,
+          "ideas": {
+            "1": {
+              "title": "Where does power originate",
+              "id": 25,
+              "ideas": {
+                "1": {
+                  "title": "Claim of right",
+                  "id": 26
+                },
+                "2": {
+                  "title": "Westminster claims all",
+                  "id": 28
+                }
+              }
+            },
+            "2": {
+              "title": "What power do we give to whom?",
+              "id": 27,
+              "ideas": {
+                "2": {
+                  "title": "Monolithic -v- modular",
+                  "id": 30,
+                  "ideas": {
+                    "1": {
+                      "title": "Subsidiarity",
+                      "id": 29,
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "2": {
+                      "title": "What power are you prepared to cede up and down?",
+                      "id": 31
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
     },
     "4": {
       "title": "Change",
@@ -48,6 +148,24 @@
     "-1": {
       "title": "Summary",
       "id": 3
+    },
+    "-0.5": {
+      "title": "Intro",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Vi pratar Svenska",
+          "id": 21
+        }
+      },
+      "attr": {
+        "position": [
+          233.5,
+          -146,
+          1
+        ],
+        "style": {}
+      }
     }
   }
 }
