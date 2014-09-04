@@ -125,7 +125,27 @@
           "ideas": {
             "1": {
               "title": "FUD",
-              "id": 7
+              "id": 7,
+              "ideas": {
+                "1": {
+                  "title": "Project Fear",
+                  "id": 41
+                },
+                "2": {
+                  "title": "Stockholm Posters",
+                  "id": 42
+                }
+              }
+            },
+            "2": {
+              "title": "Bog down in detail",
+              "id": 43,
+              "ideas": {
+                "1": {
+                  "title": "How will X work?",
+                  "id": 44
+                }
+              }
             }
           },
           "attr": {
@@ -137,17 +157,79 @@
           "id": 8,
           "attr": {
             "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Perfectionism and Factionalism",
+              "id": 37
+            }
           }
         },
         "3": {
           "title": "Mobilising Support",
-          "id": 10
+          "id": 10,
+          "ideas": {
+            "1": {
+              "title": "Apathy\nEdwin Muir",
+              "id": 32,
+              "ideas": {
+                "1": {
+                  "title": "Eat Your Cereal",
+                  "id": 39
+                },
+                "2": {
+                  "title": "Nut Jobs",
+                  "id": 40
+                }
+              }
+            }
+          }
         }
       }
     },
     "-1": {
       "title": "Summary",
-      "id": 3
+      "id": 3,
+      "ideas": {
+        "4": {
+          "title": "Exhortations",
+          "id": 49,
+          "ideas": {
+            "1": {
+              "title": "Watch out for \"do whatever wins\"",
+              "id": 48,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Watch out for \"ye cannae\" people",
+              "id": 45,
+              "ideas": {
+                "1": {
+                  "title": "J Malmont \"Not genetically programmed\"",
+                  "id": 46,
+                  "ideas": {}
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Work as if you were in the days of a better nation",
+              "id": 38,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        },
+        "5": {
+          "title": "Main Points",
+          "id": 50
+        }
+      }
     },
     "-0.5": {
       "title": "Intro",
@@ -156,6 +238,14 @@
         "1": {
           "title": "Vi pratar Svenska",
           "id": 21
+        },
+        "2": {
+          "title": "Deadly Warning",
+          "id": 34
+        },
+        "3": {
+          "title": "My name is",
+          "id": 36
         }
       },
       "attr": {
