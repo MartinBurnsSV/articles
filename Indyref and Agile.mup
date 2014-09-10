@@ -134,6 +134,13 @@
                 "2": {
                   "title": "Stockholm Posters",
                   "id": 42
+                },
+                "3": {
+                  "title": "Nut Jobs",
+                  "id": 40,
+                  "attr": {
+                    "style": {}
+                  }
                 }
               }
             },
@@ -143,7 +150,16 @@
               "ideas": {
                 "1": {
                   "title": "How will X work?",
-                  "id": 44
+                  "id": 44,
+                  "ideas": {
+                    "1": {
+                      "title": "Whataboutery",
+                      "id": 52,
+                      "attr": {
+                        "style": {}
+                      }
+                    }
+                  }
                 }
               }
             }
@@ -178,8 +194,18 @@
                   "id": 39
                 },
                 "2": {
-                  "title": "Nut Jobs",
-                  "id": 40
+                  "title": "Education - Robespierre",
+                  "id": 54
+                }
+              }
+            },
+            "2": {
+              "title": "A movement, not a campaign",
+              "id": 53,
+              "ideas": {
+                "1": {
+                  "title": "Don't restrictively own it",
+                  "id": 55
                 }
               }
             }
@@ -200,6 +226,12 @@
               "id": 48,
               "attr": {
                 "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "Bain Principle",
+                  "id": 51
+                }
               }
             },
             "2": {
