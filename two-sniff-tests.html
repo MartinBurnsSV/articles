@@ -1,0 +1,53 @@
+<p class="lede">When joining a new team, ask to see evidence of their tests and customer interactions, and use the way they respond as a quick maturity assessment.<p>
+
+	One of the hardest points of working with any new team, either as a coach, or as a manager, is to understand their current level of maturity. You need to do this quickly to be able to calibrate the your interaction and ambition for improvement, as pitching the wrong tone to the team will damage your relationship from the start. A high maturity team can feel that you are dragging them backwards, while a low maturity team will see you as a know-all expert that lacks empathy.
+
+	In this circumstance, the team's own view will often be biased, either self-deluded via <a href="https://en.wikipedia.org/wiki/Dunning–Kruger_effect">the Dunning-Kruger effect</a>, or wishing to give you a view that may not be the truth. This will be especially true if the team themselves have not asked for your help, but you have been brought in by some level of management. Until you have a better understanding of them, it will be hard to assess whether and to what extent these biases exist.
+
+	So you need a quick (which is more important than high precision) way of understanding where on the learning and maturity journey they are, and whether you need to start addressing fundamentals.
+
+	I have a simple, two part sniff test that I use, which has shown strong fidelity as a predictor of team core competence.
+
+<h2>1: <q>Can you please show me your tests?</q></h2>
+
+	The point of this is not to audit the tests, assess test coverage or any other metric. At this point, asking this hits a number of points instead:
+	
+	<ol>
+		<li>Whether tests exist in any standardised, repeatable way; fairly important to avoid regression problems and an absolute prerequisite for any kind of improvement in them.</li>
+		<li>What level of thoroughness has gone into them - a repository with a few sketchy high level tests is a very different thing from a comprehensive library, and it's obvious within a few seconds.</li>
+		<li>Most importantly: the team's attitude towards testing. Whether they take quality seriously. Whether responsibility is devolved off onto a few dedicated testers. Whether the team is actively engaged with the process</li>
+	</ol>
+
+	You can get a lot of information simply from the tone of response. If the team can point you to some kind of repository or visual management almost instantly with a <q>It's over there. Fill your boots. Come back with any questions</q> relaxed tone (or even an impatient one: an unspoken <q>you idiot</q> is a <em>good</em> thing!) then that's a very good sign. It means they actually have some consistent, thought through ways of working and have a way of transmitting them to new joiners.	
+		
+	If, on the other hand, you are repeatedly deflected with something like <q>Yeah, we have all that</q> but not a simple pointer to where it is, then at best, it's in someone's head and we're operating on the basis of rumour.
+		
+	<strong>Note that I don't care <em>how</em> it's stored.</strong> Github, Sharepoint, fileserver, Cucumber, <acronym title="Rational Team Concert">RTC</acronym>, whiteboard: it's all fine. And re whiteboard, even if it's not already <em>on</em> a board, as long as any member of the team can describe it to me and sketch it, with some consistency between team members, that's fine too.
+
+<h2>2: <q>Can you please invite me to your stakeholder demoes?</q></h2>
+
+	This doesn't mean that you are imposing Scrum-like ceremonies on the team, which will be particularly problematic if the reality is that they have evolved out of it. It isn't insisting on this as part of a planning cadence for the Kanbanistas.
+
+	What it is is a fairly good indicator of the team's commitment to transparency and to taking feedback from a wider group of stakeholders than the product owner. Is the team willing to honestly show where they've got to every so often; say every couple of weeks or so. This helps reset the clock on expectations, avoiding an ever widening divergence, and gives a huge amount of confidence in those stakeholders that when the team says "X% done" then that's reality, measured in working (including tested) software delivery, where most of the schedule risk is located.
+
+	What you're looking for here ideally is a pointer to an existing regular and frequent cadence &emdash; <q>Every other Friday at 10, in the Forest meeting room. Next one is this week</q> &emdash; with no special arrangements made for you. And again, a tone of mild annoyance is a healthy sign.
+
+	Worrying responses include:
+	
+	<ul>
+		<li>We don't want to tie up the team for half a day when we could be producing <em>real</em> value</li>
+		<li>Our stakeholders aren't interested in story level detail (it's very easy for a team to pitch a demo in a way that actively disengages non-technical stakeholders)</li>
+		<li>It's an internal meeting where the team demoes to the Product Owner and we don't want to disrupt the delicate team mood with judgemental outsiders (my view: the PO should be far more engaged, already be fully aware of the progress and often be the one demoing to other stakeholders. This could also be an indicator of far bigger team dynamics problems)</li>
+	</ul>
+	
+	It's also useful to observe the tone in the demo. Is it a simple one way performance? Or is it a real two way conversation about whether this meets expectations, is it going in the right direction and does it spark new ideas?
+	
+	Feel free to add further examples in the comments.
+	
+	<p class="lede">Carrying out this assessment has proven effective for me, and echoes Scott Ambler's acid test:</p>
+	<blockquote>
+		<p>Show me your tests.Introduce me to your stakeholders.If you can’t, you’re probably not Agile.</p>
+		<cite>Scott Ambler</cite>
+	</blockquote>
+<h2>Important Caveat</h2>
+This is simply a quick diagnostic assessment, designed for speed rather than precision. It will not tell you everything, and is only a first pass. You should maintain an open mind, ready to be proven wrong in this, always receptive to new evidence, confirmatory or otherwise.
