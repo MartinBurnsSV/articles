@@ -1,0 +1,293 @@
+{
+  "title": "Indyref and Agile",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "2": {
+      "title": "Agile IS political",
+      "id": 4,
+      "ideas": {
+        "2": {
+          "title": "Manifesto",
+          "id": 12,
+          "ideas": {
+            "1": {
+              "title": "Agile Manifesto",
+              "id": 13
+            },
+            "2": {
+              "title": "Communist Manifesto",
+              "id": 14,
+              "ideas": {}
+            }
+          }
+        },
+        "4": {
+          "title": "Struggle of class against class",
+          "id": 17,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Voltaire",
+              "id": 18
+            },
+            "2": {
+              "title": "Gandhi",
+              "id": 19
+            }
+          }
+        },
+        "5": {
+          "title": "Why do we care?",
+          "id": 20,
+          "ideas": {
+            "1": {
+              "title": "Or be ruled by inferior people",
+              "id": 16,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Things as they are\n@drunkcod",
+              "id": 11,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "title": "Optimising Systems",
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "Adam Smith",
+          "id": 22,
+          "ideas": {}
+        },
+        "2": {
+          "title": "What is the right level for sharing & autonomy",
+          "id": 24,
+          "ideas": {
+            "1": {
+              "title": "Where does power originate",
+              "id": 25,
+              "ideas": {
+                "1": {
+                  "title": "Claim of right",
+                  "id": 26
+                },
+                "2": {
+                  "title": "Westminster claims all",
+                  "id": 28
+                }
+              }
+            },
+            "2": {
+              "title": "What power do we give to whom?",
+              "id": 27,
+              "ideas": {
+                "2": {
+                  "title": "Monolithic -v- modular",
+                  "id": 30,
+                  "ideas": {
+                    "1": {
+                      "title": "Subsidiarity",
+                      "id": 29,
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "2": {
+                      "title": "What power are you prepared to cede up and down?",
+                      "id": 31
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "title": "Change",
+      "id": 9,
+      "ideas": {
+        "1": {
+          "title": "Antibodies",
+          "id": 6,
+          "ideas": {
+            "1": {
+              "title": "FUD",
+              "id": 7,
+              "ideas": {
+                "1": {
+                  "title": "Project Fear",
+                  "id": 41
+                },
+                "2": {
+                  "title": "Stockholm Posters",
+                  "id": 42
+                },
+                "3": {
+                  "title": "Nut Jobs",
+                  "id": 40,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Bog down in detail",
+              "id": 43,
+              "ideas": {
+                "1": {
+                  "title": "How will X work?",
+                  "id": 44,
+                  "ideas": {
+                    "1": {
+                      "title": "Whataboutery",
+                      "id": 52,
+                      "attr": {
+                        "style": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Gradualists and Fundamentalists",
+          "id": 8,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Perfectionism and Factionalism",
+              "id": 37
+            }
+          }
+        },
+        "3": {
+          "title": "Mobilising Support",
+          "id": 10,
+          "ideas": {
+            "1": {
+              "title": "Apathy\nEdwin Muir",
+              "id": 32,
+              "ideas": {
+                "1": {
+                  "title": "Eat Your Cereal",
+                  "id": 39
+                },
+                "2": {
+                  "title": "Education - Robespierre",
+                  "id": 54
+                }
+              }
+            },
+            "2": {
+              "title": "A movement, not a campaign",
+              "id": 53,
+              "ideas": {
+                "1": {
+                  "title": "Don't restrictively own it",
+                  "id": 55
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "Summary",
+      "id": 3,
+      "ideas": {
+        "4": {
+          "title": "Exhortations",
+          "id": 49,
+          "ideas": {
+            "1": {
+              "title": "Watch out for \"do whatever wins\"",
+              "id": 48,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "Bain Principle",
+                  "id": 51
+                }
+              }
+            },
+            "2": {
+              "title": "Watch out for \"ye cannae\" people",
+              "id": 45,
+              "ideas": {
+                "1": {
+                  "title": "J Malmont \"Not genetically programmed\"",
+                  "id": 46,
+                  "ideas": {}
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Work as if you were in the days of a better nation",
+              "id": 38,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        },
+        "5": {
+          "title": "Main Points",
+          "id": 50
+        }
+      }
+    },
+    "-0.5": {
+      "title": "Intro",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Vi pratar Svenska",
+          "id": 21
+        },
+        "2": {
+          "title": "Deadly Warning",
+          "id": 34
+        },
+        "3": {
+          "title": "My name is",
+          "id": 36
+        }
+      },
+      "attr": {
+        "position": [
+          233.5,
+          -146,
+          1
+        ],
+        "style": {}
+      }
+    }
+  }
+}
